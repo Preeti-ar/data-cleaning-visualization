@@ -1,0 +1,13 @@
+Date,Product,Category,Units_Sold,Unit_Price,City
+2026-01-01,Notebook,Stationery,10.0,50.0,Delhi
+2026-01-02,Pen,Stationery,25.0,10.0,Jaipur
+2026-01-03,Bag,Accessories,2.0,700.0,Delhi
+2026-01-04,Pen,Stationery,,10.0,Mumbai
+2026-01-05,Notebook,Stationery,12.0,50.0,Jaipur
+2026-01-05,Notebook,Stationery,12.0,50.0,Jaipur
+2026-01-07,Bottle,Accessories,8.0,120.0,Delhi
+2026-01-08,Bag,Accessories,3.0,700.0,
+2026-01-09,Pen,Stationery,20.0,10.0,Jaipur
+2026-01-10,Bottle,Accessories,6.0,,Delhi
+2026-01-11,Notebook,Stationery,11.0,50.0,Mumbai
+2026-01-12,Bag,Accessories,4.0,700.0,Jaipur
